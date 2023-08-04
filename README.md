@@ -3,4 +3,3 @@
 - 🌱 estou aprendendo javescript CSS, HTML
 - 💞️ estou trabalhando nos (projetos de pensamento computacional)
 - 📫 você pode me encontrat no melissa.ilva.antunes@escola.pr.gov.br
-- 
