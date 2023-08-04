@@ -2,4 +2,4 @@
 - 👀 estou iteressada em (desenvolver jogos,desemvolver site)
 - 🌱 estou aprendendo javescript CSS, HTML
 - 💞️ estou trabalhando nos (projetos de pensamento computacional)
-- 📫 você pode me encontrat no melissa.ilva.antunes@escola.pr.gov.br
+- 📫 você pode me encontrat no melissa.silva.antunes@escola.pr.gov.br
